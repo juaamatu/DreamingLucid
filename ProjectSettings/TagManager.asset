@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Spawn
+  - Enemy
+  - stoneFloor
+  - woodFloor
+  - Goal
+  - Echo
+  - Key
+  - MovingTile
+  - Light
+  - Corpse
+  - Ladder
+  - Checkpoint
+  - Life
+  - Button
+  - KnifeEnemy
+  - ZoomTrigger
+  - EndTrigger
+  - playerAudio
+  - Music
+  - Knife
+  - PauseMenu
+  - Music2
+  - Dialogue
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Environment
+  - Enemy
+  - MovingEnemies
+  - DeadPlayers
+  - GhostPlayer
+  - OneWayPlatform
+  - MovingOneWayPlatform
+  - PlayerInteractable
+  - Light
+  - GhostInteractable
+  - GhostOneWayPlatform
+  - Interactable
+  - Goal
+  - GhostGoesThrough
+  - NonInteractable
+  - BlockCorpses
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
